@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package fr.wawashi.wawapay.services
+package fr.deezer.test.api
 
 import androidx.lifecycle.LiveData
-import com.android.example.github.util.LiveDataCallAdapter
+import fr.wawashi.wawapay.services.ApiResponse
 import retrofit2.CallAdapter
 import retrofit2.CallAdapter.Factory
 import retrofit2.Retrofit

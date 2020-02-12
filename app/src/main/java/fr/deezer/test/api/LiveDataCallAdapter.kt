@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.example.github.util
+package fr.deezer.test.api
 
 
 import androidx.lifecycle.LiveData

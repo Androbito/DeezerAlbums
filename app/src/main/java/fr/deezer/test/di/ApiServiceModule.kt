@@ -4,7 +4,7 @@ import dagger.Module
 import dagger.Provides
 import fr.deezer.test.api.ApiService
 import fr.deezer.test.api.Constants
-import fr.wawashi.wawapay.services.LiveDataCallAdapterFactory
+import fr.deezer.test.api.LiveDataCallAdapterFactory
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
