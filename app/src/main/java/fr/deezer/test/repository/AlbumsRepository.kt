@@ -7,8 +7,8 @@ import fr.deezer.test.api.Resource
 import fr.deezer.test.db.AlbumDao
 import fr.deezer.test.model.Album
 import fr.deezer.test.model.AlbumsResponse
-import fr.wawashi.wawapay.AppExecutors
-import fr.wawashi.wawapay.services.ApiResponse
+import fr.deezer.test.api.AppExecutors
+import fr.deezer.test.api.ApiResponse
 import javax.inject.Inject
 import javax.inject.Singleton
 

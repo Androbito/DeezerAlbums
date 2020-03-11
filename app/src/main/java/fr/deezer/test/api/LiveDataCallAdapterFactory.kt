@@ -17,7 +17,6 @@
 package fr.deezer.test.api
 
 import androidx.lifecycle.LiveData
-import fr.wawashi.wawapay.services.ApiResponse
 import retrofit2.CallAdapter
 import retrofit2.CallAdapter.Factory
 import retrofit2.Retrofit

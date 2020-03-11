@@ -2,11 +2,9 @@ package fr.deezer.test.di
 
 import com.google.gson.Gson
 import dagger.Component
-import dagger.android.AndroidInjectionModule
-import fr.deezer.test.DeezerApp
 import fr.deezer.test.repository.AlbumsRepository
 import fr.deezer.test.viewmodel.AlbumViewModel
-import fr.wawashi.wawapay.AppExecutors
+import fr.deezer.test.api.AppExecutors
 import javax.inject.Singleton
 
 @Singleton

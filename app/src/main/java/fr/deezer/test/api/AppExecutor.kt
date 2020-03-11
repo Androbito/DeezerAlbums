@@ -1,4 +1,4 @@
-package fr.wawashi.wawapay
+package fr.deezer.test.api
 
 import android.os.Handler
 import android.os.Looper
