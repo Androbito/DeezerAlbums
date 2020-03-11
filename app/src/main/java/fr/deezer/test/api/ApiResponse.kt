@@ -1,4 +1,4 @@
-package fr.wawashi.wawapay.services
+package fr.deezer.test.api
 
 /*
  * Copyright (C) 2017 The Android Open Source Project
