@@ -4,11 +4,6 @@ import androidx.annotation.MainThread
 import androidx.annotation.WorkerThread
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MediatorLiveData
-import fr.wawashi.wawapay.AppExecutors
-import fr.wawashi.wawapay.services.ApiEmptyResponse
-import fr.wawashi.wawapay.services.ApiErrorResponse
-import fr.wawashi.wawapay.services.ApiResponse
-import fr.wawashi.wawapay.services.ApiSuccessResponse
 
 /**
  * A generic class that can provide a resource backed by both the sqlite database and the network.
